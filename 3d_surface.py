@@ -5,7 +5,7 @@ from mathutils import Vector
 TARGET_NAME = "  " # Enter file name no need for format | Copy file name from outliner 
 DRONE_NAME = "Drone"
 EDGE_GAP = 2 # Proximity between drone to drone
-MAX_COUNT = 500  # Drone QTY
+MAX_COUNT = 1100  # Drone QTY
 GAP_INCREMENT = 0.5  # How much to widen the gap if over limit
 NORMAL_SIGN = 1.0
 OUTPUT_COLLECTION = "Placed_Drones"
