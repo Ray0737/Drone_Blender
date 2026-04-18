@@ -2,7 +2,7 @@ import bpy
 from mathutils import Vector
 
 # --- SETTINGS ---
-TARGET_NAME = "rp_nathan_animated_003_walking_geo" 
+TARGET_NAME = " " # File name 
 DRONE_NAME = "Drone"
 EDGE_GAP = 2.0 
 MAX_COUNT = 1100 
