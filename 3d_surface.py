@@ -6,7 +6,7 @@ DRONE_NAME = "Drone"
 EDGE_GAP = 1.8
 MAX_COUNT = 100000
 NORMAL_SIGN = 1.0
-OUTPUT_COLLECTION = "Drones"
+OUTPUT_COLLECTION = "Placed_Drones"
 
 target = bpy.data.objects.get(TARGET_NAME)
 drone_src = bpy.data.objects.get(DRONE_NAME)
